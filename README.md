@@ -1,2 +1,2 @@
 # KerbalController
-HW controller for the KSP game
+ Controller for the KSP game
